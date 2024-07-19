@@ -1,4 +1,15 @@
-# A CYBERCAR STUDY FROM THE EDGE TO THE CLOUD
+# THIS IS A WORK IN PROGRESS
+
+This repository is the main part of the project and thesis for deploying ****Johnny**** a full AI agent assistant running on your pc and reachable from your car with a dedicated hardware.
+
+It is part of the following 
+# Repositories
+## [Cheshire Cat](https://github.com/cheshire-cat-ai/core), the framework
+## [Local whisper cat](https://github.com/LorenzoSiena/local_whisper_cat) his local transcriber Plugin
+## [Chattino](https://github.com/LorenzoSiena/chattino) The Arduino/Esp32 Client for embebbed and for the car application
+## [Chatty](https://github.com/LorenzoSiena/chatty) The Python Client for pc usage and more
+
+# A CYBERCAR STUDY FROM THE EDGE TO THE CLOUD  **(The original Thesis)**
 
 ## Abstract
 The thesis explores and verifies the state of the art for IoT, experimenting with and prototyping a Cybercar with a voice assistant on the vehicle. 
@@ -11,7 +22,7 @@ The study shows that it is possible with current technologies to make a common c
 level and depth that depends on the access to the internal dynamics of the car,
 accessible from the OBD-II debug port and using the protocols available on the bus.  
 
-The original thesis can be found here [Not Yet Available](https://github.com/user-attachments/files/16312417/dumblink.txt)
+The original thesis can be found here [Not Yet Available_ITALIAN ONLY](https://github.com/user-attachments/files/16312417/dumblink.txt)
 
 
 ## [TODO] Introduction
@@ -37,14 +48,6 @@ All hardware details can be found in the `hardware` directory.
 
 ## [TODO] Software
 Source code and instructions for the software can be found in the `software` directory.
-### Plugins Catshire AI
-https://github.com/LorenzoSiena/local_whisper_cat
-
-### Client Arduino for embebbed and car applications
-https://github.com/LorenzoSiena/chattino
-
-### Client Python for Pc usage
-https://github.com/LorenzoSiena/chatty
 
 ## [TODO] Experiments
 Descriptions and results of the conducted experiments can be found in the `experiments` directory.
