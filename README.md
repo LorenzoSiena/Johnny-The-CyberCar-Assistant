@@ -2,6 +2,8 @@
 
 This repository is the main part of the project and thesis for deploying ****Johnny**** a full AI agent assistant running on your pc and reachable from your car with a dedicated hardware.
 
+![img-ZZRZglqFedHgg9lLELXRt](https://github.com/user-attachments/assets/d5b674d8-e604-4692-8e8c-10bf5fc962b7)
+
 It is part of the following 
 # Repositories
 ## [Cheshire Cat](https://github.com/cheshire-cat-ai/core), the framework
