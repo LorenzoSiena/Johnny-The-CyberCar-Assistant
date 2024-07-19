@@ -1,17 +1,20 @@
-# THIS IS A WORK IN PROGRESS
+# THIS REPO IS STILL A WORK IN PROGRESS
 
 This repository is the main part of the project and thesis for deploying ****Johnny**** a full AI agent assistant running on your pc and reachable from your car with a dedicated hardware.
 
 ![img-ZZRZglqFedHgg9lLELXRt](https://github.com/user-attachments/assets/d5b674d8-e604-4692-8e8c-10bf5fc962b7)
 
 It is part of the following 
+
 # Repositories
 ## [Cheshire Cat](https://github.com/cheshire-cat-ai/core), the framework
 ## [Local whisper cat](https://github.com/LorenzoSiena/local_whisper_cat) his local transcriber Plugin
 ## [Chattino](https://github.com/LorenzoSiena/chattino) The Arduino/Esp32 Client for embebbed and for the car application
 ## [Chatty](https://github.com/LorenzoSiena/chatty) The Python Client for pc usage and more
 
-# A CYBERCAR STUDY FROM THE EDGE TO THE CLOUD  **(The original Thesis)**
+
+# A CYBERCAR STUDY FROM THE EDGE TO THE CLOUD  
+**(The original Thesis)** [TESI_IN_PDF_ITALIAN ONLY](https://github.com/user-attachments/files/16312417/dumblink.txt)
 
 ## Abstract
 The thesis explores and verifies the state of the art for IoT, experimenting with and prototyping a Cybercar with a voice assistant on the vehicle. 
@@ -23,9 +26,6 @@ the necessary hardware and software documentation.
 The study shows that it is possible with current technologies to make a common car smart, up to a
 level and depth that depends on the access to the internal dynamics of the car,
 accessible from the OBD-II debug port and using the protocols available on the bus.  
-
-The original thesis can be found here [Not Yet Available_ITALIAN ONLY](https://github.com/user-attachments/files/16312417/dumblink.txt)
-
 
 ## [TODO] Introduction
 A brief introduction to the project and the context of the thesis.
