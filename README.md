@@ -1,3 +1,8 @@
+# LINK DOWNLOAD TESI IN ITALIANO 
+[**CLICCA QUI**](https://raw.githubusercontent.com/LorenzoSiena/Johnny-The-CyberCar-Assistant/main/Tesi_ita.pdf)
+
+
+
 # THIS REPO IS STILL A WORK IN PROGRESS
 
 This repository is the main part of the project and thesis for deploying ****Johnny**** a full AI agent assistant running on your pc and reachable from your car with a dedicated hardware.
@@ -14,7 +19,7 @@ It is part of the following
 
 
 # A CYBERCAR STUDY FROM THE EDGE TO THE CLOUD  
-**(The original Thesis)** [TESI_IN_PDF_ITALIAN ONLY](https://github.com/user-attachments/files/16312417/dumblink.txt)
+**(The original Thesis)** [TESI_IN_PDF_ITALIAN ONLY](https://raw.githubusercontent.com/LorenzoSiena/Johnny-The-CyberCar-Assistant/main/Tesi_ita.pdf)
 
 ## Abstract
 The thesis explores and verifies the state of the art for IoT, experimenting with and prototyping a Cybercar with a voice assistant on the vehicle. 
