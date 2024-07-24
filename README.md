@@ -60,7 +60,7 @@ Descriptions and results of the conducted experiments can be found in the `exper
 ## HOW TO DEPLOY
 ### [TODO] SETUP
 
-### Docker-Compose Script
+### Docker-Compose Script on the Cloud Machine
 ```yaml
 Will be added soon
 ```
