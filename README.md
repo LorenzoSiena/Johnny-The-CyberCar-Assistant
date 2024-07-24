@@ -57,5 +57,16 @@ Source code and instructions for the software can be found in the `software` dir
 ## [TODO] Experiments
 Descriptions and results of the conducted experiments can be found in the `experiments` directory.
 
+## HOW TO DEPLOY
+### [TODO] SETUP
+
+### Docker-Compose Script
+```yaml
+Will be added soon
+```
+### [TODO] RUN
+
+
+
 ## License
 This repository is licensed under the GPL 3.0 License.
