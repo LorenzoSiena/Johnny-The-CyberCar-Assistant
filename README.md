@@ -1,6 +1,11 @@
 # LINK DOWNLOAD TESI IN ITALIANO 
 [**CLICCA QUI**](https://raw.githubusercontent.com/LorenzoSiena/Johnny-The-CyberCar-Assistant/main/Tesi_ita.pdf)
 
+# VIDEO DEMO FROM PC CLIENT
+
+https://github.com/user-attachments/assets/b4661633-356e-4a96-9d6a-7b079ec4c6f4
+
+
 # THIS REPO IS STILL A WORK IN PROGRESS
 
 This repository is the main part of the project and thesis for deploying ****Johnny**** a full AI agent assistant running on your pc and reachable from your car with a dedicated hardware.
