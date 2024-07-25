@@ -4,7 +4,10 @@
 # VIDEO DEMO FROM PC CLIENT
 
 
-https://github.com/user-attachments/assets/65517cac-54b1-4372-9d2f-ab672fd9a361
+
+https://github.com/user-attachments/assets/d688e4d2-7bd9-4638-b752-de8a21699676
+
+
 
 
 # THIS REPO IS STILL A WORK IN PROGRESS
