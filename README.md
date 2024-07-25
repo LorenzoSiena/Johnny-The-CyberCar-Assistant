@@ -3,7 +3,8 @@
 
 # VIDEO DEMO FROM PC CLIENT
 
-https://github.com/user-attachments/assets/b4661633-356e-4a96-9d6a-7b079ec4c6f4
+
+https://github.com/user-attachments/assets/65517cac-54b1-4372-9d2f-ab672fd9a361
 
 
 # THIS REPO IS STILL A WORK IN PROGRESS
