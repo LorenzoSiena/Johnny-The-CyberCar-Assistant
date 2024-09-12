@@ -44,6 +44,14 @@ A brief introduction to the project and the context of the thesis.
 
 ## [TODO] Architecture
 Description of the overall system architecture, including hardware and software components.
+### The Edge
+
+![5987884611008577933](https://github.com/user-attachments/assets/e9a4430c-3215-4107-bd1f-12c0f5a0ef1a)
+
+### The Cloud
+
+![5987884611008577929](https://github.com/user-attachments/assets/5d0d6e99-1ba7-474b-a537-e256405b2eaa)
+
 
 ## [TODO] Implementation
 Details on the implementation of the system, both on the edge and cloud sides.
