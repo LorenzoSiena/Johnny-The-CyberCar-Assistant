@@ -75,7 +75,7 @@ Source code and instructions for the software can be found in the `software` dir
 Descriptions and results of the conducted experiments can be found in the `experiments` directory.
 
 ## HOW TO DEPLOY
-### [TODO] SETUP
+### SETUP
 
 ### Docker-Compose Script on the Cloud Machine
 ```yaml
