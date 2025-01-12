@@ -43,8 +43,12 @@ accessible from the OBD-II debug port and using the protocols available on the b
 Ideally this project aims to be the real version of kitt from Knight Rider tv show, the goal is to have an agent to interact with vocally able to read the internal state of the car (CAN BUS and similar) and to respond remotely to user requests with the personality of a cat named Jhonny.
 The project is deployable on a common local PC equipped with a video card and requires hardware well described in the next section.
 
+![Agent](https://github.com/user-attachments/assets/aa4df7fa-6a69-4e08-9c44-cb00b836e68e)
+
+
 ## Architecture
 Description of the overall system architecture, including hardware and software components.
+
 ### The Edge
 
 ![5987884611008577933](https://github.com/user-attachments/assets/e9a4430c-3215-4107-bd1f-12c0f5a0ef1a)
