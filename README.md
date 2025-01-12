@@ -39,10 +39,11 @@ The study shows that it is possible with current technologies to make a common c
 level and depth that depends on the access to the internal dynamics of the car,
 accessible from the OBD-II debug port and using the protocols available on the bus.  
 
-## [TODO] Introduction
-A brief introduction to the project and the context of the thesis.
+##  Introduction
+Ideally this project aims to be the real version of kitt from Knight Rider tv show, the goal is to have an agent to interact with vocally able to read the internal state of the car (CAN BUS and similar) and to respond remotely to user requests with the personality of a cat named Jhonny.
+The project is deployable on a common local PC equipped with a video card and requires hardware well described in the next section.
 
-## [TODO] Architecture
+## Architecture
 Description of the overall system architecture, including hardware and software components.
 ### The Edge
 
@@ -53,26 +54,10 @@ Description of the overall system architecture, including hardware and software 
 ![5987884611008577929](https://github.com/user-attachments/assets/5d0d6e99-1ba7-474b-a537-e256405b2eaa)
 
 
-## [TODO] Implementation
-Details on the implementation of the system, both on the edge and cloud sides.
 
-## [TODO] Case Study
-Description of the case study, including specifications and results.
-
-## [TODO] Conclusions
-Final considerations and potential future developments of the project.
-
-## [TODO] Documentation
-Complete documentation can be found in the `docs` directory.
-
-## [TODO] Hardware
-All hardware details can be found in the `hardware` directory.
-
-## [TODO] Software
-Source code and instructions for the software can be found in the `software` directory.
-
-## [TODO] Experiments
-Descriptions and results of the conducted experiments can be found in the `experiments` directory.
+## Documentation
+Complete documentation can be found in the [downloadable pdf thesis](https://raw.githubusercontent.com/LorenzoSiena/Johnny-The-CyberCar-Assistant/main/Tesi_ita.pdf).
+N.B. the thesis is not in English (it was written in italian), but using NotebookLM by google you can converse with the file in your own language (or you can simply translate it with other tools).
 
 ## HOW TO DEPLOY
 ### SETUP
@@ -164,8 +149,13 @@ services:
         networks:
             - fullcat-network
 ```
-### [TODO] RUN
-
+### RUN
+```yaml
+#To start services
+docker compose up -d
+#To stop services
+docker compose down
+```
 
 
 ## License
